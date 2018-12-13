@@ -1,0 +1,37 @@
+baseurl = "https://litecli.com"
+title = "LiteCli"
+theme = "hugo-creative-portfolio-theme"
+languageCode = "en-us"
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "default"
+  description = "SQLite CLI with auto-completion and syntax highlighting"
+  #copyright = "&copy;2016 Your name or company"
+  sidebarAbout = ["SQLite<br>CommandLine<br>Auto-Completion<br>Syntax Highlighting<br>OpenSource"]
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = "home/"
+  home = true
+
+  [[params.navlinks]]
+  name = "Getting Started"
+  url = "install/"
+
+  [[params.navlinks]]
+  name = "Features"
+  url = "features-portfolio/"
+
+  [[params.navlinks]]
+  name = "News"
+  url = "news/"
+
+  [[params.navlinks]]
+  name = "About"
+  url = "about/"
+
+  [params.social]
+  github        = "https://github.com/dbcli/litecli"
