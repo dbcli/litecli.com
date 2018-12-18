@@ -19,11 +19,11 @@ languageCode = "en-us"
 
   [[params.navlinks]]
   name = "Getting Started"
-  url = "install/"
+  url = "getting-started/"
 
   [[params.navlinks]]
   name = "Features"
-  url = "features-portfolio/"
+  url = "features/"
 
   [[params.navlinks]]
   name = "News"
