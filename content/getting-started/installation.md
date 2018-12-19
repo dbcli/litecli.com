@@ -3,7 +3,7 @@ title = "Installation"
 image = "images/getting-started/install.png"
 +++
 
-Install litecli
+Installation instructions.
 
 <!--more-->
 
