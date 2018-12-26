@@ -4,8 +4,13 @@ title = "LiteCLI"
 
 LiteCLI is part of the [DBCLI](https://dbcli.com) OpenSource org. We are a friendly bunch of volunteers who love the command line.
 
+<a href="https://dbcli.com"><img src="/images/dbcli-logo.png" alt="dbcli" width=100/></a>
+
 The goal of LiteCLI is to provide a easy to use alternative to the
-default sqlite shell.
+default SQLite shell.
+
+Contact
+=======
 
 We prioritize being nice more than being right.
 
@@ -33,3 +38,4 @@ There is one exception.
 
 If you're being aggressive or insulting we will politely let you know that
 you're being unpleasant and stop responding.
+
