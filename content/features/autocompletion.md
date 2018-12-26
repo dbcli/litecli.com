@@ -3,7 +3,7 @@ title = "AutoCompletion"
 image = "images/features/autocompletion.png"
 +++
 
-Context-sensitive completion.
+Context-sensitive 
 
 <!--more-->
 

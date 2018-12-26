@@ -3,7 +3,7 @@ title = "Configuration"
 image = "images/features/config.png"
 +++
 
-Configuring File.
+Config File
 
 <!--more-->
 
