@@ -1,4 +1,4 @@
-baseurl = "https://litecli.com"
+baseurl = "/"
 title = "LiteCli"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
