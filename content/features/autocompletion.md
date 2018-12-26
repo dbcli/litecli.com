@@ -7,7 +7,7 @@ Context-sensitive
 
 <!--more-->
 
-Auto-completion is on by default. The REPL will pop up a suggestion menu as soon as you start typing. The suggestions are context sensitive based on the position of the cursor. eg: Only tables are suggested after the FROM keyword, only column names are suggested after the WHERE clause.
+Auto-completion is on by default. The REPL will pop up a suggestion menu as soon as you start typing. The suggestions are context sensitive based on the position of the cursor. 
 
 
 ### Table
