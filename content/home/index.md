@@ -1,5 +1,6 @@
 +++
 title = "LiteCLI"
+url = "/"
 +++
 
 A command line interface for SQLite with auto-completion and syntax
