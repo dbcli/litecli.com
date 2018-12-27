@@ -1,6 +1,7 @@
 +++
 title = "Configuration"
 image = "images/features/config.png"
+url = "/config"
 +++
 
 Config File

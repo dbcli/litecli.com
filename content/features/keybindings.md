@@ -1,13 +1,14 @@
 +++
 title = "Keybindings"
 image = "images/features/keybindings.png"
+url = "/keybindings"
 +++
 
 Emacs/Vim
 
 <!--more-->
 
-There are two types of keybindings available. Emacs mode and Vi mode. This determines the various shortcuts that are available in the REPL. The keybindings can be changed via the config file (~/.config/litecli/config) or toggled via F4 key.
+There are two types of keybindings available. Emacs mode and Vi mode. This determines the various shortcuts that are available in the REPL. The keybindings can be changed via the [config](/config) file (~/.config/litecli/config) or toggled via F4 key.
 
 Emacs mode is the default. In emacs mode you can type `Ctrl-A` to go to the beginning of a line and `Ctrl-E` to go to the end of a line and many more. 
 

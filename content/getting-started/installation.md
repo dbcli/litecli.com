@@ -1,6 +1,7 @@
 +++
 title = "Installation"
 image = "images/getting-started/install.png"
+url = "/install"
 +++
 
 Installation instructions.

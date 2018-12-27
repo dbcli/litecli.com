@@ -1,6 +1,7 @@
 +++
 title = "Color Themes"
 image = "images/features/colors.png"
+url = "/syntax"
 +++
 
 Syntax Highlighting
@@ -8,7 +9,7 @@ Syntax Highlighting
 <!--more-->
 
 Here is a gallery of syntax color themes. These themes can be modified via the
-[config](/features/config) file (~/.config/litecli/config).
+[config](/config) file (~/.config/litecli/config).
 
 # default
 

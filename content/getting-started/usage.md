@@ -1,6 +1,7 @@
 +++
 title = "Usage"
 image = "images/getting-started/usage.png"
+url = "/usage"
 +++
 
 Launch litecli.

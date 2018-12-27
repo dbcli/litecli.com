@@ -1,6 +1,7 @@
 +++
 title = "AutoCompletion"
 image = "images/features/autocompletion.png"
+url = "/autocompletion"
 +++
 
 Context-sensitive 
