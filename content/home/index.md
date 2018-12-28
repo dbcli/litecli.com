@@ -13,6 +13,7 @@ highlighting.
 Install using `pip`:
 
     $ pip install litecli
+    $ litecli <db_name>
 
 or
 
@@ -20,6 +21,7 @@ Installation via homebrew.
 
     $ brew tap dbcli/tap
     $ brew install litecli
+    $ litecli <db_name>
 
 If you're having trouble with the quick start, check the [Getting Started] page for detailed instructions.
 
