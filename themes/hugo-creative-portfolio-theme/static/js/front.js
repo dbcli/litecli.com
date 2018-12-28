@@ -8,7 +8,10 @@ $(function () {
     makeImagesResponsive();
 });
 function highlightCurrentPage() {
+  var hrefWithoutProtocol = location.href.replace('https:', '').replace('http:', '');
   $("a[href='" + location.href + "']").parent().addClass("active");
+  $("a[href='" + location.pathname + "']").parent().addClass("active");
+  $("a[href='" + hrefWithoutProtocol + "']").parent().addClass("active");
 }
 function makeImagesResponsive() {
     $("img").addClass("img-responsive");
