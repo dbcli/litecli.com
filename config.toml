@@ -35,4 +35,3 @@ languageCode = "en-us"
 
   [params.social]
   github        = "https://github.com/dbcli/litecli"
-  link          = "https://dbcli.com"
