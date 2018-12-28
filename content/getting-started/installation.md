@@ -16,7 +16,7 @@ Using `pip`
     $ pip install litecli
     
 
-See [Usage](/getting-started/usage) section to see how to launch `litecli`.
+See [Usage](/usage) section to see how to launch `litecli`.
 
 ## MacOS (Homebrew)
 
@@ -45,4 +45,4 @@ Installation via pip
 C:\> pip install litecli
 ```
 
-See [Usage](/getting-started/usage) section to see how to launch `litecli`.
+See [Usage](/usage) section to see how to launch `litecli`.
