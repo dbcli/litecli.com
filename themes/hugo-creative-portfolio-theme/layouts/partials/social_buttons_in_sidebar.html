@@ -44,4 +44,9 @@
     <i class="fa fa-youtube"></i>
   </a>
   {{end}}
+  {{ with .Site.Params.social.link }}
+  <a href="{{ . }}" data-animate-hover="pulse" class="external">
+    <i class="fa fa-database"></i>
+  </a>
+  {{end}}
 </p>
