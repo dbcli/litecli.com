@@ -44,7 +44,7 @@ eg:
 \T fancy
 ```
 
-To change the table format permanently, check your [config](/features/config) file for the `table_format` entry.
+To change the table format permanently, check your [config](/config) file for the `table_format` entry.
 
 ## Pager
 
