@@ -8,8 +8,9 @@ image = "/images/litecli.png"
 
 <!--more-->
 
-It is based on the popular [pgcli](https://www.pgcli.com) and [mycli](https://www.mycli.net) tools.
+![LiteCLI][1]
 
+It is based on the popular [pgcli](https://www.pgcli.com) and [mycli](https://www.mycli.net) tools.
 
 LiteCLI is written in python using the wonderful [prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) library. It is
 cross-platform compatible and it is tested on Linux, MacOS and Windows.
@@ -34,3 +35,5 @@ Check out our [contributing
 document](https://github.com/dbcli/litecli/blob/master/CONTRIBUTING.md). 
 
 **LiteCLI** is the latest addition to the [DBCLI](https://www.dbcli.com) suite of tools. 
+
+[1]: /images/litecli.png

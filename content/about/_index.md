@@ -1,13 +1,16 @@
 +++
 title = "LiteCLI"
+url = "/about"
 +++
 
-LiteCLI is part of the [DBCLI](https://dbcli.com) OpenSource org. We are a friendly bunch of volunteers who love the command line.
+LiteCLI is part of the [DBCLI](https://dbcli.com) OpenSource org. We are a
+friendly bunch of volunteers who love the command line.
 
 <a href="https://dbcli.com"><img src="/images/dbcli-logo.png" alt="dbcli" width=100/></a>
 
 The goal of LiteCLI is to provide a easy to use alternative to the
 default SQLite shell.
+
 
 Contact
 =======
