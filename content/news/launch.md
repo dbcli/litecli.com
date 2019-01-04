@@ -18,9 +18,8 @@ It is based on the popular [pgcli](https://www.pgcli.com) and [mycli](https://ww
 LiteCLI is written in python using the wonderful [prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) library. It is
 cross-platform compatible and it is tested on Linux, MacOS and Windows.
 
-It is developed by a team of core devs from around the world. The
-user-friendliness is not just limited to the tool but the entire community is
-friendly and welcoming to newcomers. 
+It is developed by a team of core devs from around the world. We are friendly
+and welcoming to newcomers. 
 
 The project is lead by [Delgermurun](https://github.com/delgermurun). The
 core team constitutes [Irina Truong](https://github.com/j-bennet),
