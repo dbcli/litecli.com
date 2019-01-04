@@ -1,16 +1,19 @@
 +++
 title = "Launching LiteCLI"
-draft = true
+draft = false
 image = "/images/litecli.png"
+date = "2019-01-03"
 +++
 
-**LiteCLI** is a user-friendly CommandLine client for SQLite database. 
+Today we are happy announce the launch of [LiteCLI](https://github.com/dbcli/litecli). 
 
 <!--more-->
 
+LiteCLI is a user-friendly CommandLine client for SQLite database. 
+
 ![LiteCLI][1]
 
-It is based on the popular [pgcli](https://www.pgcli.com) and [mycli](https://www.mycli.net) tools.
+It is based on the popular [pgcli](https://www.pgcli.com) and [mycli](https://www.mycli.net) projects.
 
 LiteCLI is written in python using the wonderful [prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) library. It is
 cross-platform compatible and it is tested on Linux, MacOS and Windows.
@@ -21,14 +24,14 @@ friendly and welcoming to newcomers.
 
 The project is lead by [Delgermurun Purevkhu](https://github.com/delgermurun). The
 core team constitutes [Irina Truong](https://github.com/j-bennet),
-[Dick Marinus](https://github.com/meeuw), and [Amjith](https://github.com/amjith)
+[Dick Marinus](https://github.com/meeuw), [Zhaolong Zhu](https://github.com/zzl0) and [Amjith](https://github.com/amjith)
 
 If you're interested in using the project, check out the quick start guide or the installation guide. 
 
 * [QuickStart](https://www.litecli.com)
 * [Installation](https://www.litecli.com/install)
 
-If you're interested in helping us develop litecli you can find out source hosted
+If you're interested in helping us develop litecli you can find the code hosted
 on [github](https://github.com/dbcli/litecli/). 
 
 Check out our [contributing
