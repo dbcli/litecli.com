@@ -5,7 +5,7 @@ image = "/images/litecli.png"
 date = "2019-01-03"
 +++
 
-Today we are happy announce the launch of [LiteCLI](https://github.com/dbcli/litecli). 
+Today we are happy to announce the launch of [LiteCLI](https://github.com/dbcli/litecli)!
 
 <!--more-->
 
