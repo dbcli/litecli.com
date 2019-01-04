@@ -22,7 +22,7 @@ It is developed by a team of core devs from around the world. The
 user-friendliness is not just limited to the tool but the entire community is
 friendly and welcoming to newcomers. 
 
-The project is lead by [Delgermurun Purevkhu](https://github.com/delgermurun). The
+The project is lead by [Delgermurun](https://github.com/delgermurun). The
 core team constitutes [Irina Truong](https://github.com/j-bennet),
 [Dick Marinus](https://github.com/meeuw), [Zhaolong Zhu](https://github.com/zzl0) and [Amjith](https://github.com/amjith)
 
