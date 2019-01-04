@@ -27,7 +27,14 @@ In MacOS you can install it via [homebrew](https://brew.sh/).
 
 ## Linux
 
-Install via pip. We don't have RPM or DEB packages. If you're interested in making one, I'll be grateful. :)
+The package is available for Arch Linux via AUR. You can install them manually
+or with an AUR helper such as yay:
+
+    $ yay -S litecli
+
+
+All other linux distros please install via pip. We don't have RPM or DEB
+packages. If you're interested in maintaining one, I'll be grateful. :)
 
 ## Windows
 
