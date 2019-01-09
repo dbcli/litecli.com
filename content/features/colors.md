@@ -9,7 +9,8 @@ Syntax Highlighting
 <!--more-->
 
 Here is a gallery of syntax color themes. These themes can be modified via the
-[config](/config) file (~/.config/litecli/config).
+[config](/config) file (~/.config/litecli/config) by changing the
+`syntax_style` value.
 
 # default
 
