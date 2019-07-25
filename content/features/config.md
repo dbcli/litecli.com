@@ -18,6 +18,7 @@ updating the version of litecli.
 ## Sample Config File
 
 ```
+# vi: ft=dosini
 [main]
 
 # Multi-line mode allows breaking up the sql statements into multiple lines. If
@@ -45,9 +46,14 @@ log_level = INFO
 # line below.
 # audit_log = ~/.litecli-audit.log
 
-# Table format. Possible values: ascii, double, github,
-# psql, plain, simple, grid, fancy_grid, pipe, orgtbl, rst, mediawiki, html,
-# latex, latex_booktabs, textile, moinmoin, jira, vertical, tsv, csv.
+# Default pager.
+# By default '$PAGER' environment variable is used
+# pager = less -SRXF
+
+# Table format. Possible values:
+# ascii, double, github, psql, plain, simple, grid, fancy_grid, pipe, orgtbl,
+# rst, mediawiki, html, latex, latex_booktabs, textile, moinmoin, jira,
+# vertical, tsv, csv.
 # Recommended: ascii
 table_format = ascii
 
