@@ -30,6 +30,10 @@ languageCode = "en-us"
   url = "news/"
 
   [[params.navlinks]]
+  name = "Changelog"
+  url = "changelog/"
+
+  [[params.navlinks]]
   name = "About"
   url = "about/"
 
