@@ -3,9 +3,6 @@ title = "LiteCLI"
 url = "/"
 +++
 
-#### We value the diversity of our community. We strive to amplify the voices of the oppressed to eradicate racism and xenophobia. We ask our community to stand together in support of the Black community. #blacklivesmatter
-
-
 A command line interface for SQLite with auto-completion and syntax
 highlighting.
 
